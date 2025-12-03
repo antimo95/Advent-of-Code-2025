@@ -15,4 +15,4 @@ Ogni giorno ha la sua cartella e file per i puzzle 🧩
 ## 📝 Linguaggi utilizzati 🔔
 
 - Python 🐍  
-*(Potrei aggiungere altri linguaggi in futuro!)* 💡
+
